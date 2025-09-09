@@ -12,6 +12,7 @@
 
 
 ## Dataset layout (expected)
+```
 data_selected/
 ├─ train/
 │ ├─ Angry/ .jpg
@@ -25,19 +26,18 @@ data_selected/
 ├─ Neutral/ ...
 ├─ Sad/ ...
 └─ Surprise/ ...
-
+```
 Classes must match exactly: `Angry`, `Happy`, `Neutral`, `Sad`, `Surprise`.
 As dataset for training the neural network download FER-2013 and for best results use 5 out of 7 emotions available, mentioned about. For tests download YAWDD dataset.
 shape_predictor_81_face_landmarks.dat also needs to be downloaded.
 
 ## Results
+<p align="center">
+  <img src="pics/1.png" alt="EAR/MAR chart for 3-FemaleGlasses" width="100%"><br>
+  <em>Wykres przedstawiający EAR i MAR wraz z emocjami dominującymi dla nagrania 3-FemaleGlasses (baza YAWDD)</em>
+</p>
 
-<figure>
-  <img src="pics/1.png" alt="EAR/MAR chart for 3-FemaleGlasses" width="100%">
-  <figcaption><em>Wykres przedstawiający EAR i MAR wraz z emocjami dominującymi dla nagrania 3-FemaleGlasses (baza YAWDD)</em></figcaption>
-</figure>
-
-<figure>
-  <img src="pics/2.PNG" alt="Fragment chart for 3-MaleGlasses with frames" width="100%">
-  <figcaption><em>Fragment wykresu dla nagrania 3-MaleGlasses (baza YAWDD) wraz z kadrami z tego nagrania</em></figcaption>
-</figure>
+<p align="center">
+  <img src="pics/2.PNG" alt="Fragment chart for 3-MaleGlasses with frames" width="100%"><br>
+  <em>Fragment wykresu dla nagrania 3-MaleGlasses (baza YAWDD) wraz z kadrami z tego nagrania</em>
+</p>
