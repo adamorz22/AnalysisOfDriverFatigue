@@ -41,3 +41,8 @@ shape_predictor_81_face_landmarks.dat also needs to be downloaded.
   <img src="pics/2.PNG" alt="Fragment chart for 3-MaleGlasses with frames" width="100%"><br>
   <em>A fragment of the graph for the recording 3-MaleGlasses (YAWDD database) with frames from this recording</em>
 </p>
+
+## Resources
+
+- **FER-2013 Dataset:** https://www.kaggle.com/datasets/msambare/fer2013
+- **YAWDD Dataset:** https://www.kaggle.com/datasets/enider/yawdd-dataset
