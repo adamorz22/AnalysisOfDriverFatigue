@@ -34,10 +34,10 @@ shape_predictor_81_face_landmarks.dat also needs to be downloaded.
 ## Results
 <p align="center">
   <img src="pics/1.png" alt="EAR/MAR chart for 3-FemaleGlasses" width="100%"><br>
-  <em>Wykres przedstawiający EAR i MAR wraz z emocjami dominującymi dla nagrania 3-FemaleGlasses (baza YAWDD)</em>
+  <em>Chart showing EAR and MAR along with the dominant emotions for recording 3-FemaleGlasses (YAWDD database)</em>
 </p>
 
 <p align="center">
   <img src="pics/2.PNG" alt="Fragment chart for 3-MaleGlasses with frames" width="100%"><br>
-  <em>Fragment wykresu dla nagrania 3-MaleGlasses (baza YAWDD) wraz z kadrami z tego nagrania</em>
+  <em>A fragment of the graph for the recording 3-MaleGlasses (YAWDD database) with frames from this recording</em>
 </p>
